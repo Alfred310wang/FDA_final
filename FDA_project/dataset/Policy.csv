@@ -52,8 +52,3 @@ policy_id,country,type,gov_policy,detail,start_date,end_date
 51,Korea,Technology,Self-Quarantine Safety Protection App,,2020-03-07,
 52,Korea,Technology,Electronic Wristbands,on people who violate self-quarantine measures,2020-04-27,
 53,Korea,Administrative,Close bars and clubs,administrative order to close bars and clubs,2020-05-08,2020-06-07
-54,Korea,Administrative,local government Administrative orders,"Gathering limited administrative orders for nursing homes, nursing homes, elderly day care centers and mental hospitals used by vulnerable groups",2020-05-16,
-55,Korea,Administrative,Close karaoke,Ban on gathering for 2 weeks for all karaoke and coin karaoke,2020-05-21,2020-06-03
-56,Korea,Transformation,Logistics center,On-site inspection of major logistics facilities such as courier terminals and warehouses,2020-05-29,2020-06-11
-57,Korea,Transformation,Wearing of masks,"Mandatory wearing of passenger mask domestic, international teminal in the airport",2020-05-27,
-58,Korea,Transformation,Wearing of masks,Drivers such as buses and taxis can refuse to ride passengers without masks,2020-05-26,
